@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Sarah | Freelance Nail Artist & Studio",
+  "description": "Boutique freelance nail artist studio featuring real-time appointment booking calendar, comprehensive service menu, and curated nail art gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
